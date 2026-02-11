@@ -1,22 +1,24 @@
 # 👋 Hi, I’m Francisco González
 
-🚀 Business Relationship Manager @ Softtek | AI Solutions Architect  
+🚀 Business Relationship Manager @ Softtek | AI Solutions Developer  
 🇨🇱 Santiago, Chile
 
 -----
 
 ## 🧠 About Me
 
-I build enterprise AI solutions that transform operations in sectors like Energy & Utilities. My approach combines strategic consulting with technical development, specializing at the intersection of SAP, digital transformation, and artificial intelligence.
+I specialize in bridging business strategy and technical execution in the enterprise consulting space. My focus combines strategic consulting with hands-on technical development, particularly at the intersection of SAP, digital transformation, and artificial intelligence.
 
-**At Softtek:** I lead SAP implementation and digital transformation projects for large enterprises in the energy, oil & gas, and financial sectors across Latin America.
+**Professionally:** I lead SAP implementation and digital transformation projects for large enterprises in the energy, oil & gas, and financial sectors across Latin America at Softtek.
 
-### 🎯 Current Projects:
+**Personal Projects:** I explore AI applications for enterprise use cases, developing tools and frameworks that solve real business problems. My side projects focus on automation, intelligent document processing, and rapid product development methodologies.
 
-- **AI Innovation Copilot** — Multi-agent system for structured innovation processes
-- **RFP Intelligence Platform** — Automated RFP analysis with NLP optimized for Spanish
-- **Rocket Launch Platform** — Framework for accelerated AI product deployment
-- **SAP E2E Digitalization** — Installation process automation for energy sector
+### 🎯 Current Focus:
+
+- **AI Innovation Tools** — Multi-agent systems for structured innovation processes
+- **Document Intelligence** — Automated analysis platforms with NLP optimized for Spanish
+- **Development Frameworks** — Templates and tools for accelerated AI product deployment
+- **SAP Digitalization** — Process automation solutions for energy sector
 
 -----
 
@@ -55,11 +57,11 @@ I build enterprise AI solutions that transform operations in sectors like Energy
 
 -----
 
-## 🚀 Featured Projects
+## 🚀 Featured Personal Projects
 
 ### 🤖 AI Innovation Copilot
 
-Multi-agent system for innovation process management following the Double Diamond framework.
+Personal exploration of multi-agent systems for innovation process management following the Double Diamond framework.
 
 **Key Features:**
 
@@ -75,40 +77,40 @@ Multi-agent system for innovation process management following the Double Diamon
 - Session and long-term memory layers
 - Async task processing with Celery
 
-### 📄 RFP Intelligence Platform
+### 📄 Document Intelligence Tools
 
-Automated RFP analysis platform optimized for Latin American Spanish.
+Exploration of automated document analysis optimized for Latin American Spanish.
 
 **Capabilities:**
 
 - Document processing with RAG (Retrieval-Augmented Generation)
 - Technical and commercial requirement extraction
-- Automated preliminary proposal generation
-- SAP system integration
+- Automated content analysis
+- Integration patterns for enterprise systems
 
-**Use cases:**
+**Focus areas:**
 
-- Energy sector procurement analysis
-- Oil & gas contract evaluation
-- Financial services compliance checking
+- Energy sector documentation
+- Contract and procurement analysis
+- Technical specification processing
 
-### ⚡ Rocket Launch Platform
+### ⚡ Development Frameworks
 
-Framework for rapid deployment of enterprise AI products.
+Personal toolkit for rapid deployment of AI-powered applications.
 
-**Core Stack:**
+**Components:**
 
-- Multi-tenancy with Azure AD / GCP
-- Zero Trust Network Access implementation
-- SDLC automation for solo founders
-- Optimized Claude Code templates
+- Multi-tenancy authentication patterns (Azure AD / GCP)
+- Security-first architecture templates
+- SDLC automation tools
+- Optimized development workflows
 
 **Features:**
 
 - Pre-configured authentication flows
 - Scalable infrastructure templates
-- CI/CD pipelines for AI applications
-- Security-first architecture
+- Best practices for AI applications
+- Documentation-driven development
 
 -----
 
@@ -118,23 +120,22 @@ Framework for rapid deployment of enterprise AI products.
 
 **Specialization:** Energy & Utilities, Oil & Gas, Financial Services
 
+I bridge business strategy and technical execution in large-scale consulting engagements, leading initiatives that combine SAP expertise with digital transformation.
+
+**Key responsibilities:**
+
 - Leadership of SAP projects (PS, E2E digitalization)
-- RFP analysis for large corporations
-- Digital transformation solution implementation
+- RFP analysis and proposal development for large corporations
+- Digital transformation solution design and implementation
 - Stakeholder management in enterprise projects
+- Technical and business requirement analysis
 
-**Key achievements:**
+**Project highlights:**
 
-- Led SAP PS training programs for major clients
-- Designed E2E installation digitalization for Lipigas
-- Managed multi-million dollar consulting engagements
-
-
-**Current initiatives:**
-
-- Building Affinitim networking platform
-- Developing local LLM deployment solutions
-- Creating enterprise RAG systems
+- SAP PS training programs for major clients
+- E2E installation digitalization initiatives for energy sector
+- Digital transformation roadmaps for utilities companies
+- Multi-million dollar consulting engagements
 
 -----
 
@@ -149,56 +150,51 @@ Framework for rapid deployment of enterprise AI products.
 
 ## 🔧 Development Approach
 
-I focus on building systems that combine:
+In my personal projects and professional work, I focus on:
 
-- **Strategic thinking** with business impact measurement
+- **Strategic alignment** with measurable business impact
 - **Technical excellence** with maintainable, scalable architectures
-- **AI capabilities** with practical enterprise constraints
-- **Rapid iteration** with production-ready quality
+- **AI integration** balanced with practical enterprise constraints
+- **Iterative development** with production-ready quality
 
-My workflow emphasizes:
+My personal development methodology emphasizes:
 
-- Solo-founder optimized SDLC processes
-- Claude Code for accelerated development
-- Infrastructure as Code
-- API-first design
-- Comprehensive documentation
-
------
-
-## 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fcojaviergon&show_icons=true&theme=tokyonight)](https://github.com/fcojaviergon)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcojaviergon&layout=compact&theme=tokyonight)](https://github.com/fcojaviergon)
+- Efficient solo development workflows
+- AI-assisted coding (Claude Code, GitHub Copilot)
+- Infrastructure as Code principles
+- API-first design patterns
+- Comprehensive documentation practices
 
 -----
 
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-gonzalez-millan)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fran@cunda.io)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.franciscogonzalez.me)
+
+💼 [LinkedIn](https://www.linkedin.com/in/francisco-gonzalez-millan)  
+🌐 [Website](https://www.franciscogonzalez.me)
 
 -----
 
-## 🌟 Current Interests
+## 🌟 Current Interests & Learning
 
 - Multi-agent architectures for enterprise use cases
-- Local LLM implementation for corporate privacy
-- SAP process automation with AI
+- Local LLM implementation for corporate privacy requirements
+- SAP process automation with AI technologies
 - RAG optimization for Spanish technical documentation
 - Zero Trust and security in multi-tenant applications
 - Innovation management frameworks and methodologies
+- Rapid prototyping and MVP development strategies
 
 -----
 
-## 🎯 Open to
+## 🎯 Professional Goals
 
-- **Technical Leadership Roles:** Head of Development, Engineering Manager, CTO
-- **AI Architecture Consulting:** Enterprise AI strategy and implementation
-- **Collaborative Projects:** Open source contributions in AI/SAP integration
-- **Speaking Opportunities:** Tech conferences on AI in enterprise environments
+- **Technical Leadership:** Exploring paths toward Head of Development, Engineering Manager roles
+- **AI Architecture:** Deepening expertise in enterprise AI strategy and implementation
+- **Knowledge Sharing:** Open to speaking opportunities on AI in enterprise environments
+- **Continuous Learning:** Staying current with latest developments in AI, SAP, and cloud technologies
 
 -----
 
