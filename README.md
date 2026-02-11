@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Francisco González
 
-🚀 Business Relationship Manager @ Softtek | Founder @ Cunda.io | AI Solutions Architect  
+🚀 Business Relationship Manager @ Softtek | AI Solutions Architect  
 🇨🇱 Santiago, Chile
 
 -----
@@ -10,8 +10,6 @@
 I build enterprise AI solutions that transform operations in sectors like Energy & Utilities. My approach combines strategic consulting with technical development, specializing at the intersection of SAP, digital transformation, and artificial intelligence.
 
 **At Softtek:** I lead SAP implementation and digital transformation projects for large enterprises in the energy, oil & gas, and financial sectors across Latin America.
-
-**At Cunda.io:** Co-founder and CAIO of an AI-powered software factory, where we develop intelligent agents for RFPs, sales, and rapid AI product launch platforms.
 
 ### 🎯 Current Projects:
 
