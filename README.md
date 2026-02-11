@@ -9,15 +9,16 @@
 
 I specialize in bridging business strategy and technical execution in the enterprise consulting space. My focus combines strategic consulting with hands-on technical development, particularly at the intersection of SAP, digital transformation, and artificial intelligence.
 
-**Professionally:** I lead SAP implementation and digital transformation projects for large enterprises in the energy, oil & gas, and financial sectors across Latin America at Softtek.
+**Professionally:** I lead SAP implementation, application suppory manteince and digital transformation projects for large enterprises in the energy, oil & gas across Latin America at Softtek.
 
 **Personal Projects:** I explore AI applications for enterprise use cases, developing tools and frameworks that solve real business problems. My side projects focus on automation, intelligent document processing, and rapid product development methodologies.
 
 ### 🎯 Current Focus:
 
 - **AI Innovation Tools** — Multi-agent systems for structured innovation processes
-- **Document Intelligence** — Automated analysis platforms with NLP optimized for Spanish
-- **Development Frameworks** — Templates and tools for accelerated AI product deployment
+- **Document Intelligence** — Automated analysis platforms with NLP
+- **Launch With AI** — Platform for rapid deployment of AI-powered products
+- **Solo Founder SDLC Kit** — Development workflows optimized for Claude Code
 - **SAP Digitalization** — Process automation solutions for energy sector
 
 -----
@@ -79,7 +80,7 @@ Personal exploration of multi-agent systems for innovation process management fo
 
 ### 📄 Document Intelligence Tools
 
-Exploration of automated document analysis optimized for Latin American Spanish.
+Exploration of automated document analysis optimized for Latin American.
 
 **Capabilities:**
 
@@ -94,23 +95,45 @@ Exploration of automated document analysis optimized for Latin American Spanish.
 - Contract and procurement analysis
 - Technical specification processing
 
-### ⚡ Development Frameworks
+### ⚡ Launch With AI
 
-Personal toolkit for rapid deployment of AI-powered applications.
+Platform for rapid deployment and launch of AI-powered products.
+
+**What it is:**
+
+- Complete framework for building and shipping AI applications
+- From idea to production in record time
+- Production-ready templates and infrastructure
+- Multi-tenant architecture patterns
+
+**Key Features:**
+
+- **Multi-tenant Architecture:** Azure AD / GCP authentication
+- **Security-First:** Zero Trust patterns and best practices
+- **Cloud-Ready:** GCP/Azure deployment templates
+- **Scalable Infrastructure:** Docker + PostgreSQL + Vector DBs
+- **API-First Design:** FastAPI / Node.js backends with React frontends
+
+### 🛠️ Solo Founder SDLC Kit
+
+Development workflow optimization for solo founders using Claude Code.
 
 **Components:**
 
-- Multi-tenancy authentication patterns (Azure AD / GCP)
-- Security-first architecture templates
-- SDLC automation tools
-- Optimized development workflows
+- **Skills & Agents:** Pre-configured Claude Code workflows
+- **Git Hooks:** Automated quality checks and validations
+- **Project Templates:** Rapid project initialization
+- **Documentation Automation:** README, specs, and API docs generation
+- **Testing & Deployment:** CI/CD pipeline templates
 
-**Features:**
+**Philosophy:**
 
-- Pre-configured authentication flows
-- Scalable infrastructure templates
-- Best practices for AI applications
-- Documentation-driven development
+- One-person team optimization
+- AI-assisted development
+- Rapid iteration to production
+- Quality without overhead
+
+[View on GitHub](https://github.com/fcojaviergon/solo-founder-team)
 
 -----
 
@@ -124,7 +147,7 @@ I bridge business strategy and technical execution in large-scale consulting eng
 
 **Key responsibilities:**
 
-- Leadership of SAP projects (PS, E2E digitalization)
+- Leadership of SAP projects (ISU, E2E digitalization)
 - RFP analysis and proposal development for large corporations
 - Digital transformation solution design and implementation
 - Stakeholder management in enterprise projects
@@ -132,7 +155,7 @@ I bridge business strategy and technical execution in large-scale consulting eng
 
 **Project highlights:**
 
-- SAP PS training programs for major clients
+- SAP training programs for major clients
 - E2E installation digitalization initiatives for energy sector
 - Digital transformation roadmaps for utilities companies
 - Multi-million dollar consulting engagements
@@ -144,7 +167,7 @@ I bridge business strategy and technical execution in large-scale consulting eng
 - **Energy & Utilities:** Installation process digitalization, asset management
 - **Oil & Gas:** Management systems, compliance, operations optimization
 - **Financial Services:** Payment systems, risk analysis, automation
-- **SAP:** PS implementations, system integration, training
+- **SAP:** ERP implementations, system integration, training
 
 -----
 
@@ -182,8 +205,7 @@ My personal development methodology emphasizes:
 - Multi-agent architectures for enterprise use cases
 - Local LLM implementation for corporate privacy requirements
 - SAP process automation with AI technologies
-- RAG optimization for Spanish technical documentation
-- Zero Trust and security in multi-tenant applications
+- RAG optimization technical documentation
 - Innovation management frameworks and methodologies
 - Rapid prototyping and MVP development strategies
 
